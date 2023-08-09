@@ -1,4 +1,4 @@
-# y-tho (development)
+# y-tho (production)
 App to help with some of everyday life's challenging enquiries. Works by responding to user's query with relevant and meaningful philosophical resources.
 
 Current tech stack:
